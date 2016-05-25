@@ -121,11 +121,9 @@
       <excludeFolder url="file://$MODULE_DIR$/public/system" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="RVM: ruby-1.9.3-p550" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="json (v1.8.3, RVM: ruby-1.9.3-p551 [test-mysql]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rake (v11.1.2, RVM: ruby-1.9.3-p551 [test-mysql]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="rdoc (v3.12.2, RVM: ruby-1.9.3-p551 [test-mysql]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.12.4, RVM: ruby-1.9.3-p550) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
     <LOAD_PATH number="0" />
